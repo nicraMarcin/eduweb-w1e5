@@ -1,0 +1,20 @@
+{
+  "name": "e1",
+  "authors": [
+    "nicraMarcin <marcin@nicram.net>"
+  ],
+  "description": "",
+  "main": "",
+  "license": "MIT",
+  "homepage": "",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "bootstrap": "^3.3.7"
+  }
+}
